@@ -1,3 +1,1 @@
-0-hello_world displays "hello world"
-#!/bin/bash
-echo Hello, World
+This repository is a practice repository for shell basic project
